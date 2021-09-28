@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sneila-interstellar
-- 👀 I’m interested in Coding and building computing models for Machine Learning.
-- 🌱 I’m currently learning Tensorflow,Pytorch,Keras,Sklearn.
-- 💞️ I’m looking to collaborate on Artificial Intelligence projects.
+- 👋 welcome to @sneila-interstellar
+- 👀 we are interested in Coding and building computing models for Machine Learning.
+- 🌱 we use Tensorflow,Pytorch,Keras,Sklearn.
+- 💞️ we are looking to collaborate on Artificial Intelligence projects.
 - 📫 How to reach me; call +2349120980217 or email itsmishesbone@gmail.com;sneilainterstellar@gmail.com
 
 <!---
